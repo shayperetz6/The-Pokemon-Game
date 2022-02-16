@@ -7,11 +7,6 @@ the pokemon game is simple! you you have agents,nodes,edges and of course pokemo
 each pokemon have a value and in the end you need to have as much points as you can by catching them(in this case move near them on the edge) in the time given,
 also each pokemon is seating on an edge and each agent is seating on node(at the start at least)
 the algorithem shood tell the brave agents how to move to max the amount of points. 
-## Authors
-
-- [@oa1321](https://www.github.com/oa1321) 213101637
-- [@shayperetz6](https://github.com/shayperetz6) 203464870
-
 
 ## The Problem Space
 the point of the game as described above is to gather as much points as possible, 
